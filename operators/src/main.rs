@@ -1,5 +1,3 @@
-use std::ptr::read_unaligned;
-
 fn main() {
     println!("Hello, world!");
     let numero_uno: i32 = 10;
